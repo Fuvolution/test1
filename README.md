@@ -4,3 +4,6 @@ Connection Successful!
 
 # Important Message!
 Connection Successfuly from Agent Bluey! 
+
+# Test Case Scenario
+* Agent Bluey has made contact with GitHub through - 
