@@ -7,6 +7,7 @@
 # Test Case Scenario
 * Agent Bluey has made contact with GitHub through - 
 * Agent MacroLaptop has made contact with GitHub through - 
+* Agent Bluey has made contact with GitHub through : 
 
 # Important Update
 * Can fully use remote add origin, remote set-url, clone, and push changes when interacting with a GitHub repository located in a specfic GitHub account
